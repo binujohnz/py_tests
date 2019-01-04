@@ -5,4 +5,4 @@ from gui.phtoGUI import MainForm
 if __name__ == '__main__':
     app = wx.App()
     frame = MainForm(None).Show()
-    app.MainLoop()
+    app.MainLoop() 
